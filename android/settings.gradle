@@ -1,0 +1,3 @@
+rootProject.name = 'meserv_2484'
+
+include ':app'
